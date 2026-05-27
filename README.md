@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on Software Engineer as a App developer
 - 📫 How to reach me Email id:- Kuldeepthakur0918@gmail.com
 -   Mob No. 7206221645
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 erkuldeepthakur/erkuldeepthakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
