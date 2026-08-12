@@ -62,15 +62,13 @@ I enjoy turning ideas into **clean, useful and interactive software**. I like ex
 
 </div>
 
-> **Contribution streak cards removed:** the external streak service was returning **404**, so this profile intentionally uses reliable GitHub/Shields badges instead.
-
 ---
 
-## 🐍 Contribution Snake
+## ⚡ Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/erkuldeepthakur/erkuldeepthakur/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erkuldeepthakur&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
