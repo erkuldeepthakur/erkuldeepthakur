@@ -51,34 +51,18 @@ I enjoy turning ideas into **clean, useful and interactive software**. I like ex
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=erkuldeepthakur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkuldeepthakur&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/erkuldeepthakur?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/commit-activity/y/erkuldeepthakur/erkuldeepthakur?style=for-the-badge&logo=github&label=Yearly%20Commits" alt="Yearly commits" />
+<img src="https://img.shields.io/github/last-commit/erkuldeepthakur/erkuldeepthakur?style=for-the-badge&logo=github&label=Last%20Commit" alt="Last commit" />
+<img src="https://img.shields.io/github/created-at/erkuldeepthakur/erkuldeepthakur?style=for-the-badge&logo=github&label=Profile%20Repo" alt="Profile repository age" />
 
 </div>
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=erkuldeepthakur&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=erkuldeepthakur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="GitHub trophies" />
-
-</div>
+> **Note:** I removed the third-party stats/streak/trophy/activity cards that were returning broken images. Your profile now uses GitHub/Shields-hosted badges plus the self-generated contribution snake, so the README stays clean and reliable.
 
 ---
 
@@ -87,16 +71,6 @@ I enjoy turning ideas into **clean, useful and interactive software**. I like ex
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/erkuldeepthakur/erkuldeepthakur/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erkuldeepthakur&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
