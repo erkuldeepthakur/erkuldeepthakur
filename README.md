@@ -62,7 +62,7 @@ I enjoy turning ideas into **clean, useful and interactive software**. I like ex
 
 </div>
 
-> **Note:** I removed the third-party stats/streak/trophy/activity cards that were returning broken images. Your profile now uses GitHub/Shields-hosted badges plus the self-generated contribution snake, so the README stays clean and reliable.
+> **Contribution streak cards removed:** the external streak service was returning **404**, so this profile intentionally uses reliable GitHub/Shields badges instead.
 
 ---
 
